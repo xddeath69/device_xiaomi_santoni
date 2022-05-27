@@ -23,6 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_n_mr1.mk
 NAD_BUILD_TYPE := OFFICIAL
 USE_PIXEL_CHARGING := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
+TARGET_SUPPORTS_QUICK_TAP := true
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
 # Inherit from santoni device
