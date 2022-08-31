@@ -150,3 +150,9 @@ persist.sys.wfd.virtual=0
 
 # Zygote preforking
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# Havoc-OS
+ro.havoc.device.name=Redmi 4/4x
+ro.havoc.group.url=https://t.me/havoc_santoni
+ro.havoc.maintainer=Gabriel Nogueira
+ro.havoc.maintainer.username=XDDEATH69
