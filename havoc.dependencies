@@ -3,10 +3,15 @@
    "repository": "android_kernel_xiaomi_santoni",
    "target_path": "kernel/xiaomi/msm8937",
    "remote": "github"
+  },
+ {
+   "repository": "android_vendor_xiaomi_santoni",
+   "target_path": "vendor/xiaomi/santoni",
+   "remote": "github"
  },
  {
    "repository": "android_vendor_xiaomi_santoni",
-   "target_path": "vendor/xiaomi/land",
+   "target_path": "vendor/xiaomi/santoni",
    "remote": "github"
  }
 ]
